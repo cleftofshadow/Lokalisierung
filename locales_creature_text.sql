@@ -1,16 +1,9 @@
 /*
-Navicat MySQL Data Transfer
+Deutsche Lokalisierung der creature_text Tabelle.
 
-Source Server         : localhost
-Source Server Version : 50531
-Source Host           : localhost:3306
-Source Database       : world
+(c) cleftofshadow.org
 
-Target Server Type    : MYSQL
-Target Server Version : 50531
-File Encoding         : 65001
-
-Date: 2014-01-05 21:42:00
+Letzte Aktualisierung: 2014-01-05 22:28:43
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -44,3 +37,12 @@ INSERT INTO `locales_creature_text` VALUES ('23602', '1', '0', null, null, 'Dies
 INSERT INTO `locales_creature_text` VALUES ('23602', '1', '1', null, null, 'Ihr könnt uns nicht davon abhalten, die Öffentlichkeit über Jainas Feigheit aufzuklären!', null, null, null, null, null);
 INSERT INTO `locales_creature_text` VALUES ('23602', '1', '2', null, null, 'Wenn Ihr glaubt, uns aufhalten zu können, dann irrt Ihr Euch, Freundchen.', null, null, null, null, null);
 INSERT INTO `locales_creature_text` VALUES ('23602', '1', '3', null, null, 'Es sind Leute wie Ihr, die die Allianz schwächen und die Horde dazu einladen, sich alles zu nehmen, für das wir gekämpft haben!', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '0', '0', 'Hey, thanks.', null, 'Hey, danke.', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '1', '0', '...receive 50 percent off deserter undergarments? What is this garbage?', null, '...50 Prozent Rabatt für Deserteur Unterwäsche? Was ist das für ein Mist?', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '1', '1', '...to establish a fund for the purchase of hair gel? I like my hair the way it is, thanks!', null, '...die Sicherheit bewahren indem man Haargel kauft? Ich mag meine Haare wie sie sind, danke!', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '1', '2', '...the deserters seek a Theramore where citizens will be free to juggle at all hours of the day? What is this nonsense?', null, '...die Deserteure suchen Theramore auf weil sie denken die Bürger haben den ganzen Tag nichts zu tun. Was ist das für ein Unsinn?', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '1', '3', '...to establish the chicken as the official symbol of Theramore?! These guys are nuts!', null, '...das Huhn als offizielles Symbol von Theramore bewahren?! Diese Leute sind doch verrückt!', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '1', '4', '...as a deserter, you\'ll enjoy activities like tethered swimming and dog grooming? How ridiculous!', null, '...als Deserteur genießt man stets Aktivitäten wie Schwimmen bei schönem Wetter und Pflege für die Hunde im Schönheitssalon? Wie lächerlich ist das!', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '2', '0', 'This... this is a joke, right?', null, 'Das... ist ein Witz, oder?', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '2', '1', 'I\'d never join anything like this. Better keep this, though. It\'ll come in handy in the privy...', null, 'So etwas habe ich noch nie gemacht. Behalt das lieber für dich.. sonst komme ich noch in Schwierigkeiten.', null, null, null, null, null);
+INSERT INTO `locales_creature_text` VALUES ('4979', '2', '2', 'What a bunch of lunatics! You actually believe this stuff?', null, 'Was für ein Haufen Irrer! Glaubst du tatsächlich daran?', null, null, null, null, null);
